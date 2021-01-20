@@ -1,0 +1,8 @@
+{
+  "name": "the-nfl-draft-2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.html",
+  "author": "Surya Raghavan",
+  "license": "ISC"
+}
