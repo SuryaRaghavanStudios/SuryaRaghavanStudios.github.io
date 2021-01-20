@@ -1,0 +1,8 @@
+{
+  "name": "bankist",
+  "version": "1.0.0",
+  "description": "Manage your money here!",
+  "main": "./src/index.html",
+  "author": "Surya Raghavan",
+  "license": "ISC"
+}
