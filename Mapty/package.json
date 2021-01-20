@@ -1,0 +1,8 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "Map your workouts",
+  "main": "./src/index.html",
+  "author": "Surya Raghavan",
+  "license": "ISC"
+}
