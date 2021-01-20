@@ -1,0 +1,8 @@
+{
+  "name": "Surya Raghavan Studios",
+  "version": "1.0.0",
+  "description": "Github repo for SRS projects",
+  "main": "./src/HTML/index.html",
+  "author": "Surya Raghavan",
+  "license": "ISC"
+}
