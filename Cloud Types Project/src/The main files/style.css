@@ -1,0 +1,20 @@
+/* Basic html stuff */
+/* This just makes it easier to style the font-size using rems. :D */
+
+html {
+    font-size: 62.5%;
+}
+
+/* Styles the heading 1 */
+
+h1 {
+    font-family: cursive;
+    font-size: 3rem;
+}
+
+/* And this styles the Paragraph. This might seem simple, but hey I don't know much. (Hey, I'm still learning!) */
+
+p {
+    font-family: cursive;
+    font-size: 1.6rem;
+}

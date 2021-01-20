@@ -1,0 +1,8 @@
+{
+  "name": "cloud-types-project",
+  "version": "1.0.0",
+  "description": "Learn about the types of clouds here!",
+  "main": "./src/The main files/Home.html",
+  "author": "Surya Raghavan",
+  "license": "ISC"
+}
