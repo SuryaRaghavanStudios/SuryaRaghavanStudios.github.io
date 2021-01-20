@@ -1,0 +1,8 @@
+{
+  "name": "monster-hotel-bank-proposal",
+  "version": "1.0.0",
+  "description": "School project",
+  "main": "./src/HTML/index.html",
+  "author": "Surya Raghavan",
+  "license": "ISC"
+}

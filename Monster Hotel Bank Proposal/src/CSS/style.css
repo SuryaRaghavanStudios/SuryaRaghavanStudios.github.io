@@ -1,0 +1,133 @@
+* {
+  margin: none;
+  padding: none;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  background: rgba(11, 14, 158, 0.494);
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url(../fonts/Roboto/Roboto-Black.ttf);
+}
+
+@font-face {
+  font-family: "Nerko One";
+  src: url(../fonts/Nerko_One/NerkoOne-Regular.ttf);
+}
+
+body {
+  font-family: "Nerko One";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 2.4rem;
+  font-family: "Roboto";
+}
+
+p {
+  font-size: 1.8rem;
+  text-align: center;
+}
+
+#activities {
+  border: 5px solid black;
+}
+
+a {
+  text-decoration: none;
+}
+
+ol, ul {
+  font-size: large;
+  list-style-position: inside;
+}
+
+img {
+  width: 250px;
+  border: aqua dotted 0.3rem;
+  border-radius: 50% 20% / 10% 40%;
+  box-shadow: 0 3rem 2em -0.4em black;
+  transition: 5s;
+}
+
+img:hover {
+  transform: translateY(10%) rotateZ(-5deg) rotateX(-30deg);
+  box-shadow: 0 0.6em 0.5em -0.4em black;
+}
+
+button {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  margin: 0px;
+  position: relative;
+  display: -webkit-inline-box;
+  display: -moz-inline-box;
+  display: -ms-inline-flexbox;
+  display: -webkit-inline-flex;
+  display: inline-flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  border: none;
+  border-radius: 50% 20% / 10% 40%;
+  cursor: pointer;
+  outline: none;
+  text-decoration: none;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background: #1865f2;
+  color: white;
+  padding-left: 16px;
+  padding-right: 16px;
+  height: 32px;
+  font-size: 1.8rem;
+  cursor: pointer;
+  transition: 3s;
+  box-shadow: 0 3rem 1em -0.4em black;
+}
+
+button:hover {
+  background-color: magenta;
+  border-radius: 20px;
+  transform: translateX(10px) rotateZ(10deg) translateY(10%) scale(0.8);
+  box-shadow: 0 1em 1em -0.4em black;
+  transition: 2s;
+}
+
+footer {
+  font-size: 1.5rem;
+}
+
+table {
+  background: rgb(95, 45, 211);
+  border-radius: 50% 20% / 10% 40%;
+  font-size: 1.6rem;
+  padding: 5rem;
+  border-spacing: 10;
+}
+
+th,
+td {
+  padding: 30px;
+  border: 2px dotted rgb(25, 146, 140);
+}
