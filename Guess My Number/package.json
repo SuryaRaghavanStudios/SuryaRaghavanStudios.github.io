@@ -1,0 +1,8 @@
+{
+  "name": "guess-my-number",
+  "version": "1.0.0",
+  "description": "Try to guess the correct number to win the game",
+  "main": "./src/index.html",
+  "author": "Surya Raghavan",
+  "license": "ISC"
+}
