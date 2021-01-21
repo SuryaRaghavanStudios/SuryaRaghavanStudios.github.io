@@ -1,8 +1,0 @@
-{
-  "name": "ms.stoldt-birthday-surprise",
-  "version": "1.0.0",
-  "description": "Birthday Surprise for Ms. Stoldt",
-  "main": "./src/HTML/index.html",
-  "author": "Surya Raghavan",
-  "license": "ISC"
-}
